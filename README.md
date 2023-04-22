@@ -1,2 +1,2 @@
 # Clone-Netflix
-React e consumo de api
+Consumo de api
